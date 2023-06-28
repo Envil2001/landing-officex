@@ -20,6 +20,8 @@ const NextGenCoworkingSection = () => {
                     <ImageWithTeamInfo />
                 </div>
             </div>
+
+
         </section>
     );
 };

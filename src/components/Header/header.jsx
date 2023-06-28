@@ -11,7 +11,7 @@ const Header = () => {
     };
 
     return (
-        <header className="left-0 top-0 absolute w-full z-50 py-5 px-10 md:px-20 lg:px-44">
+        <header className="left-0 top-0 absolute w-full z-50 py-5 px-10 md:px-20 lg:px-44"  >
             <div className="container">
                 <div className="hidden md:flex justify-between items-center">
                     {menuData.map((item, index) => (

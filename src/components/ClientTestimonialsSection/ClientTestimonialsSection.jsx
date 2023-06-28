@@ -5,7 +5,7 @@ import { Filter } from "../Filter/filter";
 const ClientTestimonialsSection = () => {
 
     return (
-        <section style={{ backgroundImage: `url(${teamImage})` }} className="bg-no-repeat bg-cover bg-center px-10 md:px-20 lg:px-44 py-16">
+        <section style={{ backgroundImage: `url(${teamImage})` }} className="bg-no-repeat bg-cover bg-center px-10 md:px-20 lg:px-44 py-16"  >
             <div className="container">
                 <div className="mb-10">
                     <h1 className="text-7xl md:text-[200px] font-semibold text-white leading-[1.2]">Officex</h1>

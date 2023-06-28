@@ -53,7 +53,7 @@ const OfficeFinderSection = () => {
 
 
     return (
-        <section className="py-20 px-10 md:px-20 lg:px-44">
+        <section className="py-20 px-10 md:px-20 lg:px-44"  >
             <div className="container ">
                 <div className="grid gap-5 md:grid-cols-[repeat(5,1fr)]">
                     <span className="text-xs text-black -leading-3">What Client Say</span>
